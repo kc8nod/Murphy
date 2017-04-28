@@ -15,8 +15,6 @@ import org.usfirst.frc1520.Murphy.RobotMap;
 import org.usfirst.frc1520.Murphy.commands.*;
 import edu.wpi.first.wpilibj.RobotDrive;
 import edu.wpi.first.wpilibj.SpeedController;
-import edu.wpi.first.wpilibj.Victor;
-
 import edu.wpi.first.wpilibj.command.Subsystem;
 
 
